@@ -1,0 +1,78 @@
+2014-11-03 03:09:49,737 INFO org.apache.hadoop.mapred.JobClient (main): Default number of map tasks: null
+2014-11-03 03:09:49,737 INFO org.apache.hadoop.mapred.JobClient (main): Setting default number of map tasks based on cluster size to : 60
+2014-11-03 03:09:49,737 INFO org.apache.hadoop.mapred.JobClient (main): Default number of reduce tasks: 10
+2014-11-03 03:09:51,708 INFO org.apache.hadoop.security.ShellBasedUnixGroupsMapping (main): add hadoop to shell userGroupsCache
+2014-11-03 03:09:51,712 INFO org.apache.hadoop.mapred.JobClient (main): Setting group to hadoop
+2014-11-03 03:09:52,404 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 1
+2014-11-03 03:09:52,427 INFO com.hadoop.compression.lzo.GPLNativeCodeLoader (main): Loaded native gpl library
+2014-11-03 03:09:52,430 WARN com.hadoop.compression.lzo.LzoCodec (main): Could not find build properties file with revision hash
+2014-11-03 03:09:52,430 INFO com.hadoop.compression.lzo.LzoCodec (main): Successfully loaded & initialized native-lzo library [hadoop-lzo rev UNKNOWN]
+2014-11-03 03:09:52,451 WARN org.apache.hadoop.io.compress.snappy.LoadSnappy (main): Snappy native library is available
+2014-11-03 03:09:52,452 INFO org.apache.hadoop.io.compress.snappy.LoadSnappy (main): Snappy native library loaded
+2014-11-03 03:09:53,856 INFO org.apache.hadoop.mapred.JobClient (main): Running job: job_201411030308_0001
+2014-11-03 03:09:54,861 INFO org.apache.hadoop.mapred.JobClient (main):  map 0% reduce 0%
+2014-11-03 03:10:32,997 INFO org.apache.hadoop.mapred.JobClient (main):  map 1% reduce 0%
+2014-11-03 03:10:36,005 INFO org.apache.hadoop.mapred.JobClient (main):  map 2% reduce 0%
+2014-11-03 03:10:39,014 INFO org.apache.hadoop.mapred.JobClient (main):  map 7% reduce 0%
+2014-11-03 03:10:42,022 INFO org.apache.hadoop.mapred.JobClient (main):  map 19% reduce 0%
+2014-11-03 03:10:45,031 INFO org.apache.hadoop.mapred.JobClient (main):  map 34% reduce 0%
+2014-11-03 03:10:48,042 INFO org.apache.hadoop.mapred.JobClient (main):  map 43% reduce 0%
+2014-11-03 03:10:51,049 INFO org.apache.hadoop.mapred.JobClient (main):  map 46% reduce 0%
+2014-11-03 03:10:52,052 INFO org.apache.hadoop.mapred.JobClient (main):  map 47% reduce 0%
+2014-11-03 03:10:54,058 INFO org.apache.hadoop.mapred.JobClient (main):  map 52% reduce 0%
+2014-11-03 03:10:55,060 INFO org.apache.hadoop.mapred.JobClient (main):  map 53% reduce 0%
+2014-11-03 03:10:57,065 INFO org.apache.hadoop.mapred.JobClient (main):  map 64% reduce 3%
+2014-11-03 03:11:00,073 INFO org.apache.hadoop.mapred.JobClient (main):  map 75% reduce 7%
+2014-11-03 03:11:01,075 INFO org.apache.hadoop.mapred.JobClient (main):  map 76% reduce 7%
+2014-11-03 03:11:03,081 INFO org.apache.hadoop.mapred.JobClient (main):  map 85% reduce 12%
+2014-11-03 03:11:04,083 INFO org.apache.hadoop.mapred.JobClient (main):  map 86% reduce 14%
+2014-11-03 03:11:06,089 INFO org.apache.hadoop.mapred.JobClient (main):  map 91% reduce 15%
+2014-11-03 03:11:07,091 INFO org.apache.hadoop.mapred.JobClient (main):  map 92% reduce 15%
+2014-11-03 03:11:09,096 INFO org.apache.hadoop.mapred.JobClient (main):  map 96% reduce 19%
+2014-11-03 03:11:10,099 INFO org.apache.hadoop.mapred.JobClient (main):  map 97% reduce 20%
+2014-11-03 03:11:12,104 INFO org.apache.hadoop.mapred.JobClient (main):  map 99% reduce 25%
+2014-11-03 03:11:15,111 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 27%
+2014-11-03 03:11:18,117 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 29%
+2014-11-03 03:11:19,120 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 30%
+2014-11-03 03:11:21,125 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 31%
+2014-11-03 03:11:24,133 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 79%
+2014-11-03 03:11:25,135 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 86%
+2014-11-03 03:11:27,140 INFO org.apache.hadoop.mapred.JobClient (main):  map 100% reduce 100%
+2014-11-03 03:11:32,154 INFO org.apache.hadoop.mapred.JobClient (main): Job complete: job_201411030308_0001
+2014-11-03 03:11:32,197 INFO org.apache.hadoop.mapred.JobClient (main): Counters: 30
+2014-11-03 03:11:32,197 INFO org.apache.hadoop.mapred.JobClient (main):   Job Counters 
+2014-11-03 03:11:32,198 INFO org.apache.hadoop.mapred.JobClient (main):     Total time spent by all maps waiting after reserving slots (ms)=0
+2014-11-03 03:11:32,198 INFO org.apache.hadoop.mapred.JobClient (main):     Total time spent by all reduces waiting after reserving slots (ms)=0
+2014-11-03 03:11:32,198 INFO org.apache.hadoop.mapred.JobClient (main):     Rack-local map tasks=76
+2014-11-03 03:11:32,198 INFO org.apache.hadoop.mapred.JobClient (main):     SLOTS_MILLIS_MAPS=1272869
+2014-11-03 03:11:32,198 INFO org.apache.hadoop.mapred.JobClient (main):     SLOTS_MILLIS_REDUCES=389822
+2014-11-03 03:11:32,199 INFO org.apache.hadoop.mapred.JobClient (main):     Launched map tasks=76
+2014-11-03 03:11:32,199 INFO org.apache.hadoop.mapred.JobClient (main):     Launched reduce tasks=15
+2014-11-03 03:11:32,199 INFO org.apache.hadoop.mapred.JobClient (main):   File Output Format Counters 
+2014-11-03 03:11:32,199 INFO org.apache.hadoop.mapred.JobClient (main):     Bytes Written=1452
+2014-11-03 03:11:32,199 INFO org.apache.hadoop.mapred.JobClient (main):   FileSystemCounters
+2014-11-03 03:11:32,199 INFO org.apache.hadoop.mapred.JobClient (main):     FILE_BYTES_READ=13943896
+2014-11-03 03:11:32,199 INFO org.apache.hadoop.mapred.JobClient (main):     FILE_BYTES_WRITTEN=29838829
+2014-11-03 03:11:32,200 INFO org.apache.hadoop.mapred.JobClient (main):     HDFS_BYTES_READ=6630
+2014-11-03 03:11:32,200 INFO org.apache.hadoop.mapred.JobClient (main):     S3_BYTES_READ=4336589800
+2014-11-03 03:11:32,200 INFO org.apache.hadoop.mapred.JobClient (main):     S3_BYTES_WRITTEN=1452
+2014-11-03 03:11:32,200 INFO org.apache.hadoop.mapred.JobClient (main):   File Input Format Counters 
+2014-11-03 03:11:32,200 INFO org.apache.hadoop.mapred.JobClient (main):     Bytes Read=4336589800
+2014-11-03 03:11:32,200 INFO org.apache.hadoop.mapred.JobClient (main):   Map-Reduce Framework
+2014-11-03 03:11:32,201 INFO org.apache.hadoop.mapred.JobClient (main):     Combine input records=0
+2014-11-03 03:11:32,201 INFO org.apache.hadoop.mapred.JobClient (main):     Combine output records=0
+2014-11-03 03:11:32,201 INFO org.apache.hadoop.mapred.JobClient (main):     Total committed heap usage (bytes)=42092986368
+2014-11-03 03:11:32,201 INFO org.apache.hadoop.mapred.JobClient (main):     CPU time spent (ms)=492170
+2014-11-03 03:11:32,201 INFO org.apache.hadoop.mapred.JobClient (main):     Map input records=13395076
+2014-11-03 03:11:32,201 INFO org.apache.hadoop.mapred.JobClient (main):     Map output bytes=92967392
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Map output materialized bytes=13953480
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Map output records=5810462
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Physical memory (bytes) snapshot=45554757632
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Reduce input groups=192
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Reduce input records=5810462
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Reduce output records=20
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Reduce shuffle bytes=13953480
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Spilled Records=11620924
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     SPLIT_RAW_BYTES=6630
+2014-11-03 03:11:32,202 INFO org.apache.hadoop.mapred.JobClient (main):     Virtual memory (bytes) snapshot=98930565120
+
